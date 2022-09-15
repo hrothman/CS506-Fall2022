@@ -1,3 +1,14 @@
 def draw_gym():
-    print("gym not found")
+    print("_________________________________")
+    print("|                               |")
+    print("|                               |")
+    print("|                               |")
+    print("|                               |_")
+    print("|                                 |")
+    print("|                                _|")
+    print("|                               |")
+    print("|                               |")
+    print("|                               |")    
+    print("|_______________________________|")
+
     return
